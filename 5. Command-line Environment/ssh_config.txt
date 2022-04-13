@@ -1,0 +1,6 @@
+Host missing-semester
+    User ec2-user
+    HostName 99.79.32.40
+    Port 22
+    IdentityFile ~/.ssh/LightsailDefaultKey-ca-central-1.pem
+    LocalForward 9999 localhost:8888
